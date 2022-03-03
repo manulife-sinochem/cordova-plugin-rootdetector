@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugin-rootdetector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "cordova": {
+    "id": "cordova-plugin-rootdetector",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/MBPSCD/cordova-plugin-rootdetector.git"
+  },
+  "engines":[
+    {
+      "name": "cordova",
+      "version": ">=3.1.0"
+    }
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
